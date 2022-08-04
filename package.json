@@ -1,0 +1,23 @@
+{
+  "name": "git-beetest",
+  "version": "1.0.0",
+  "description": "Test Cypress in GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bumblebee-Siri/git-beetest.git"
+  },
+  "keywords": [],
+  "author": "Siripond.s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bumblebee-Siri/git-beetest/issues"
+  },
+  "homepage": "https://github.com/Bumblebee-Siri/git-beetest#readme",
+  "dependencies": {
+    "cypress": "^10.4.0"
+  }
+}
